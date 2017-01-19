@@ -19,6 +19,7 @@
                 "#{mySrcSecGroupID}",
                 "#{myBackupSecGroupID}"
             ],
+            "imageId": "ami-0188776c",
             "subnetId": "#{mySubnetID}",
             "associatePublicIpAddress": "true"
         },
